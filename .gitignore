@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+backups/
+bin/
+obj/
+.vscode/
+.idea/
