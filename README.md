@@ -422,7 +422,7 @@ Through this project, the following practical DevOps concepts are being explored
 
 ## Project Status
 
-<PRIVATE_STATUS_PLACEHOLDER>
+In Progress
 
 **Current implementation:** Containerised application deployment, server configuration, reverse proxy, initial security hardening, monitoring, and database backup and recovery.
 
