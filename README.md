@@ -434,9 +434,8 @@ In Progress
 
 **Sonal Fernando**
 
-Software Engineer | Technical Consultant | DevOps Enthusiast
+DevOps Enthusiast | Software Engineer | Technical Consultant
 
-- Portfolio: https://www.sonal.cloud/
 - GitHub: https://github.com/danufdo
 
 This project is part of my practical learning journey into Linux administration, containerisation, deployment automation, and DevOps engineering.
